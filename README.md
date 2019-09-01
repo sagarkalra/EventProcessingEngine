@@ -48,4 +48,12 @@ curl -X POST \
 }'
 ```
 
+---------------------------------------
 
+##### Setting up the project
+
+1. cd into the project root directory
+
+2. Run ``npm install``
+
+3. Run ``npm start`` to start the application
