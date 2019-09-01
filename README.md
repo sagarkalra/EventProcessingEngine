@@ -1,6 +1,6 @@
 ## Assembly Platform for API
  
- Application with Built-in Event Processing Engine
+Application with Built-in Event Processing Engine
 
 ### API Endpoints
 
