@@ -4,7 +4,7 @@
 
 ### API Endpoints
 
-##### Create a User
+##### 1. Create a User
 
 POST ``http://localhost:3000/api/v1/users``
 
@@ -19,7 +19,7 @@ curl -X POST \
    }'
 ```
 
-##### Create a Wallet
+##### 2. Create a Wallet
 
 POST ``http://localhost:3000/api/v1/wallets``
 
@@ -34,7 +34,7 @@ curl -X POST \
 }'
 ```
 
-##### Add Money to Wallet
+##### 3. Add Money to Wallet
 
 POST ``http://localhost:3000/api/v1/wallets/<mobile>/topup``
 
