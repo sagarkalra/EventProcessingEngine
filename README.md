@@ -1,4 +1,4 @@
-## Application (API Assembly Platform)
+## Assembly Platform for API
  
  Application with Built-in Event Processing Engine
 
